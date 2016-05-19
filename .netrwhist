@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/christopherwynne/GDS/20_percent_time/testtesttest'
+let g:netrw_dirhist_2='/Users/christopherwynne/GDS/20_percent_time/spike'
+let g:netrw_dirhist_3='/Users/christopherwynne/GDS/20_percent_time/GDSspike'
+let g:netrw_dirhist_4='/Users/christopherwynne/GDS/20_percent_time/spike'
+let g:netrw_dirhist_5='/Users/christopherwynne/GDS/20_percent_time'
+let g:netrw_dirhist_6='/Users/christopherwynne/GDS/20_percent_time/GDSspike'
